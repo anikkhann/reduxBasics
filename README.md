@@ -1,32 +1,32 @@
-[![Youtube][youtube-shield]][youtube-url]
-[![Facebook][facebook-shield]][facebook-group-url]
+<!-- [![Youtube][youtube-shield]][youtube-url]
+[![Facebook][facebook-shield]][facebook-group-url] -->
 
 <!-- PROJECT LOGO -->
 <br />
  <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/73503432?v=4" alt="Logo" width="80" height="80" />
-    <h3 align="center "><a href="https://learnwithsumit.com/courses/think-in-a-redux-way/rewrite-the-counter-application" target="_blank" >THINK IN A REDUX WAY - MODULE 1 - LESSON 6</a></h3>
+    <!-- <img src="https://avatars.githubusercontent.com/u/73503432?v=4" alt="Logo" width="80" height="80" />
+    <h3 align="center "><a href="https://learnwithsumit.com/courses/think-in-a-redux-way/rewrite-the-counter-application" target="_blank" >THINK IN A REDUX WAY - MODULE 1 - LESSON 6</a></h3> -->
 </p>
 
 <!-- TABLE OF CONTENTS -->
 
-## ![tableOfContent][tableofcontent-shield] Table of Contents
+<!-- ## ![tableOfContent][tableofcontent-shield] Table of Contents
 
 | HTML TEMPLATE                            | CODE RUN                   | CONTACT                    |
 | ---------------------------------------- | -------------------------- | -------------------------- |
 | [Get HTML template](#-get-html-template) | [How to run](#-how-to-run) | [Contact us](#-contact-us) |
 
-<br>
+<br> -->
 
 <!-- GET HTML TEMPLATE -->
 
-## ![htmlIcon][htmlicon-shield] Get HTML Template
+<!-- ## ![htmlIcon][htmlicon-shield] Get HTML Template
 
-You can find the raw HTML template of the counter application from the "html_template" folder.
+You can find the raw HTML template of the counter application from the "html_template" folder. -->
 
 <!-- HOW TO RUN -->
 
-## ![rocketIcon][rocketicon-shield] How to run
+<!-- ## ![rocketIcon][rocketicon-shield] How to run
 
 Please follow the below instructions to run this branch in your machine:
 
@@ -45,20 +45,20 @@ Please follow the below instructions to run this branch in your machine:
    git checkout 1.6
    ```
 5. Just run the index.html file with Visual Studio Code [Live Server plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-   <br>
+   <br> -->
 
 <!-- CONTACT  -->
 
-## ![contactIcon][contacticon-shield] Contact us
+<!-- ## ![contactIcon][contacticon-shield] Contact us
 
 [![Facebook][facebook-shield]][facebook-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
-[![mail][mail-shield]][mail-url]
+[![mail][mail-shield]][mail-url] -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
+<!-- [youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
 [youtube-url]: https://youtube.com/LearnwithSumit
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://facebook.com/letslearnwithsumit
@@ -73,4 +73,4 @@ Please follow the below instructions to run this branch in your machine:
 [tableofcontent-shield]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/28/undefined/external-direction-business-and-teamwork-flatart-icons-flat-flatarticons.png
 [htmlicon-shield]: https://img.icons8.com/external-flaticons-flat-flat-icons/28/undefined/external-html-computer-programming-flaticons-flat-flat-icons.png
 [rocketicon-shield]: https://img.icons8.com/arcade/30/undefined/experimental-rocket-arcade.png
-[contacticon-shield]: https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/undefined/external-support-communication-media-flaticons-lineal-color-flat-icons.png
+[contacticon-shield]: https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/undefined/external-support-communication-media-flaticons-lineal-color-flat-icons.png -->
